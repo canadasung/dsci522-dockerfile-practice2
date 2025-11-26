@@ -1,0 +1,9 @@
+name: dsci522-dockerfile-practice3
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas=2.3.3
+  - conda-lock=3.0.4
+  - numpy=2.3.5
+prefix: /Users/wnsong/miniforge3/envs/dsci522-dockerfile-practice3
